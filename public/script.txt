@@ -1,0 +1,17 @@
+Full Screen:
+http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg
+loading:
+http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg
+Single champion
+http://ddragon.leagueoflegends.com/cdn/12.10.1/data/en_US/champion/Aatrox.json
+ListChampion
+http://ddragon.leagueoflegends.com/cdn/12.10.1/data/en_US/champion.json
+Unique champion
+http://ddragon.leagueoflegends.com/cdn/12.10.1/data/fr_FR/champion/Aatrox.json
+ListeChampion
+http://ddragon.leagueoflegends.com/cdn/12.10.1/data/fr_FR/champion.json
+
+Carousel css: 
+https://www.w3schools.com/howto/howto_js_slideshow.asp 
+dicord wild rift:
+https://discord.gg/qTK5EaXrZP
