@@ -16,7 +16,7 @@ const ChampionList = () => {
     <section className="section">
       <h2 className="section-title">Champions</h2>
       <div className="champions-center">
-        {champions.map((item) => {
+        {champions.map((item) => {console.log(item);
           return <Champion key={item.id} {...item} />;
         })}
       </div>

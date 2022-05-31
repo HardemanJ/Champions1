@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Error from "./pages/Error";
 import About from "./pages/About";
-import Search from "./pages/Search"
 import SingleChampion from "./pages/SingleChampion";
 // import component
 import Navbar from "./component/Navbar";
@@ -16,7 +15,6 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="" element={<Search/>} />
         <Route path="/about" element={<About />} />
         <Route path="/champion/:id" element={<SingleChampion />} />
         <Route path="*" element={<Error />} />

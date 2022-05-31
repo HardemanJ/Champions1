@@ -15,3 +15,13 @@ Carousel css:
 https://www.w3schools.com/howto/howto_js_slideshow.asp 
 dicord wild rift:
 https://discord.gg/qTK5EaXrZP
+region; not json
+https://www.mobafire.com/league-of-legends/tier-list/each-champions-region-3471?s=p
+
+
+
+region{
+    demacia{
+    name:garen,
+    name:lux
+}]

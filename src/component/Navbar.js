@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom"
 
 const Navbar = () => {
   return (
@@ -10,18 +10,20 @@ const Navbar = () => {
         </Link>
         <ul className="nav-link">
           <li>
-            <Link to="/">Home</Link>
+          <img src="" href="lol_menu.png" alt=""></img>
+            <Link 
+             to="/">Home</Link>
           </li>
-          {/* <li><Link to="">Search</Link></li> */}
+          {/* <li><Link to="/search">Search</Link></li> */}
           <li>
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/Singlechampion">SingleChampion</Link>
+            {/* <Link to="/Singlechampion">SingleChampion</Link> */}
           </li>
         </ul>
         <div>
-            <img src="" href="lol.png" alt=""></img>
+            <img src="" href="lol_title.png.png" alt=""></img>
           </div>
         <h1>Caracter</h1>
       </div>
